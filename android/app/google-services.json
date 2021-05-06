@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "1055788443339",
-    "firebase_url": "https://flash-chat-58a2a.firebaseio.com",
-    "project_id": "flash-chat-58a2a",
-    "storage_bucket": "flash-chat-58a2a.appspot.com"
+    "project_number": "1081012824450",
+    "project_id": "flash-chat-6e7ba",
+    "storage_bucket": "flash-chat-6e7ba.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1055788443339:android:26ee5a166746f262",
+        "mobilesdk_app_id": "1:1081012824450:android:50854c5b325eb1ba57079b",
         "android_client_info": {
-          "package_name": "co.appbrewery.flash_chat"
+          "package_name": "co.hrythm.flash_chat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1055788443339-o0dpvs896iv6ju6s3kqhkndv0bt8cgoc.apps.googleusercontent.com",
+          "client_id": "1081012824450-0gplj4rgsjcuk1i8guu2gplojlpfbsuc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD6rctF2MNCGAIz2K70BQvTBfSJPHaaCqo"
+          "current_key": "AIzaSyCxPgltGWFsf9O0LJqw_tB2SikgiCgyH5w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1055788443339-o0dpvs896iv6ju6s3kqhkndv0bt8cgoc.apps.googleusercontent.com",
+              "client_id": "1081012824450-0gplj4rgsjcuk1i8guu2gplojlpfbsuc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
